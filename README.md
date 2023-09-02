@@ -1,5 +1,9 @@
 Welcome to Travello, the innovative travel platform that brings the world to your fingertips. As a passionate Software Engineer, I've dedicated my skills to create a dynamic solution that redefines how we experience travel. Travello is built on the robust foundation of Django, PostgreSQL, and PgAdmin, seamlessly integrating cutting-edge technology with the thrill of exploration.
 
+
+![image](https://github.com/Dr-blue-cyber/travello-book-explore/assets/85605208/b6045905-70c4-46b1-a421-1ced18da3793)
+
+
 Features
 Effortless Adventure: Embarking on your next journey is now effortless with Travello. Our user-friendly interface offers curated, budget-friendly options, matching your preferences to ideal destinations.
 
