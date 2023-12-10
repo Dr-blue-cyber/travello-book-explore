@@ -1,4 +1,3 @@
-Certainly! Below is the content in Markdown format for your README file. You can paste this directly into a Markdown (.md) file on GitHub.
 
 ```markdown
 # Setting up a Django Project with Virtual Environment
